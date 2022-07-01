@@ -26,4 +26,4 @@ Langkah-langkah yang dibutuhkan untuk menjalankan app dengan baik :
 # Screenshot 
 ## Dashboard Menu
 
-![Screenshot](ss/dashboard.jpeg)
+![Screenshot](ss/dashboard.jpg)
